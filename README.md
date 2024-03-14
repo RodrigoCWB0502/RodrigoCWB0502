@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Rodrigo Bittencourt 🖐️
+### Hello! My name is Rodrigo Bittencourt. 🖐️
 
 [![Blog](https://img.shields.io/website?label=rodrigo-bittencourt.com&style=for-the-badge&url=https://rodrigo-bittencourt.com/)](https://rodrigo-bittencourt.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo.granadoo/)
@@ -7,7 +7,7 @@
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoCWB0502&show_icons=true&theme=tokyonight)
 
-## Tecnologias que uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline-block"> <br/>
     <img position="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,4 +18,3 @@
     <img position="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img position="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div> <br/>
-Apaixonado por Desenvolvimento WEB
