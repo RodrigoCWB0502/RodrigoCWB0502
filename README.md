@@ -1,7 +1,7 @@
 
 ### Hello! My name is Rodrigo Bittencourt. 🖐️
 
-[![Blog](https://img.shields.io/website?label=rodrigo-bittencourt.com&style=for-the-badge&url=https://rodrigo-bittencourt.com/)]()
+[![Blog](https://img.shields.io/website?label=rodrigo-bittencourt.com&style=for-the-badge&url=https://rodrigo-bittencourt.com/)](https://rodrigo-bittencourt.com)
 [![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-granado-bittencourt-0183ba2b1/)
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoCWB0502&show_icons=true&theme=tokyonight)
