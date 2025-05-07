@@ -4,8 +4,6 @@
 [![Blog](https://img.shields.io/website?label=Rodrigo-Bittencourt&style=for-the-badge&url=https://portfolio-lake-five-82.vercel.app/)](https://portfolio-lake-five-82.vercel.app)
 [![Linked-In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-granado-bittencourt-0183ba2b1/)
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoCWB0502&show_icons=true&theme=tokyonight)
-
 ## Technologies I use in my day
 
 <div style="display: inline-block"> <br/>
