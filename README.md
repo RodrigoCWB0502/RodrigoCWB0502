@@ -1,4 +1,4 @@
-# Hello! Welcome to my GitHub 🖐️
+# Hello! My name is Rodrigo Granado Bittencourt, I'm a Data Engineer focused in Python and Artificial Intelligence.
 
 ## About me!
 
