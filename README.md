@@ -43,8 +43,6 @@ My goal is to grow in the field of data engineering and AI, applying data-driven
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoCWB0502&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoCWB0502&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=RodrigoCWB0502&color=blue&style=for-the-badge" alt="Profile views" />
