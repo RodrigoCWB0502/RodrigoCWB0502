@@ -112,7 +112,7 @@ class Rodrigo:
 
 | | Course | Institution | Period |
 | --- | --- | --- | --- |
-| 🎓 | **B.Sc. in Computer Science** | PUCPR | 2023 – 2027 |
+| 🎓 | **B.Sc. in Computer Science** | PUCPR | 2023 – 2028 |
 | 💻 | **Full-Stack Development** | OneBitCode | 2024 – 2025 |
 | ⚙️ | **Back-end with C# and Node.js** | Rocketseat | 2026 – Present |
 | 🌎 | **English** (advanced) | | 2014 – 2020 |
