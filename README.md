@@ -27,7 +27,7 @@ My goal is to ship **data-driven, AI-powered products**, with a strong focus on 
 class Rodrigo:
     def __init__(self):
         self.role       = "Data Engineering Intern @ ACL"
-        self.education  = "B.Sc. Computer Science @ PUCPR (2023 - 2027)"
+        self.education  = "B.Sc. Computer Science @ PUCPR (2023 - 2028)"
         self.location   = "Curitiba, Brazil"
         self.languages  = ["Portuguese (native)", "English (advanced)"]
         self.daily_code = ["Python", "SQL", "TypeScript", "JavaScript"]
